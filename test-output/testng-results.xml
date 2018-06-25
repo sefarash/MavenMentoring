@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22298" started-at="2018-06-21T17:03:01Z" finished-at="2018-06-21T17:03:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22298" started-at="2018-06-21T17:03:01Z" finished-at="2018-06-21T17:03:24Z">
+      <class name="com.indeed.Amazon">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.indeed.Amazon@604ed9f0]" name="setUp" is-config="true" duration-ms="9685" started-at="2018-06-21T17:03:01Z" finished-at="2018-06-21T17:03:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="rating()[pri:0, instance:com.indeed.Amazon@604ed9f0]" name="rating" duration-ms="12579" started-at="2018-06-21T17:03:11Z" finished-at="2018-06-21T17:03:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rating -->
+      </class> <!-- com.indeed.Amazon -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
